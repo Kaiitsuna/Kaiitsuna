@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kaiitsuna</h1>
+<h1 align="center">Hello 👋, I'm Kaindra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Astra Group IT**

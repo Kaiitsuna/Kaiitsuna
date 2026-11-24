@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Astra Group IT**
 
-- 🌱 I’m currently learning **Frameworks, Databases, etc**
+- 🌱 I’m currently learning **Frameworks, Databases, Design, etc**
 
 - 📫 How to reach me **kaindraazyiels@gmail.com**
 
